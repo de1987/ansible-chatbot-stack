@@ -129,7 +129,7 @@ requires-dist = [
     { name = "aiosqlite", specifier = "~=0.21.0" },
     { name = "faiss-cpu", specifier = "~=1.11" },
     { name = "fire", specifier = "~=0.7.0" },
-    { name = "lightspeed-stack-providers", git = "https://github.com/de1987/lightspeed-providers.git?rev=bump-llama-stack" },
+    { name = "lightspeed-stack-providers", git = "https://github.com/shanemcd/lightspeed-providers.git?rev=bump-llama-stack" },
     { name = "litellm", specifier = "~=1.75.3" },
     { name = "mcp", specifier = "~=1.9.4" },
     { name = "numpy", specifier = "==2.2.6" },
@@ -1009,7 +1009,7 @@ wheels = [
 [[package]]
 name = "lightspeed-stack-providers"
 version = "0.1.16"
-source = { git = "https://github.com/de1987/lightspeed-providers.git?rev=bump-llama-stack#b9e4122fdae5438d848181f8520426114a8f7b6c" }
+source = { git = "https://github.com/shanemcd/lightspeed-providers.git?rev=bump-llama-stack#0eb06959eb13bfae408097233694610ffa3677d1" }
 dependencies = [
     { name = "httpx" },
     { name = "litellm" },

@@ -36,7 +36,7 @@ jiter==0.10.0
 joblib==1.5.1
 jsonschema==4.24.0
 jsonschema-specifications==2025.4.1
-lightspeed-stack-providers @ git+https://github.com/de1987/lightspeed-providers.git@b9e4122fdae5438d848181f8520426114a8f7b6c
+lightspeed-stack-providers @ git+https://github.com/shanemcd/lightspeed-providers.git@0eb06959eb13bfae408097233694610ffa3677d1
 litellm==1.75.5.post1
 llama-stack==0.2.22
 llama-stack-client==0.2.23
